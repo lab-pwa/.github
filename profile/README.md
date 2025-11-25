@@ -39,15 +39,3 @@ https://pwadeveloper.netlify.app/
 [facebook]: https://www.facebook.com/decomrradio/
 [CodePen]: https://codepen.io/davidsonbpe/
 
-
-
-
-![banner](https://raw.githubusercontent.com/lab-pwa/.github/main/profile/city-ge.jpg)
-
-## Lab PWA
-
-Laboratório Progressiva web app.
-
-Visite <https://github.com/lab-pwa> para obter mais informações.
-
-## Nós : Open Source
